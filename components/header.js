@@ -31,4 +31,4 @@ Header.propTypes = {
     timeout: PropTypes.bool
 }
 
-export default Header
+export default Header;
